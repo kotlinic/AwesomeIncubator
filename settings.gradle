@@ -1,0 +1,2 @@
+rootProject.name = "incubator21"
+include ':app'
